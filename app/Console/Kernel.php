@@ -2,7 +2,7 @@
 
 namespace App\Console;
 
-use App\Console\Commands\ScrapeFunko;
+use App\Console\Commands\ScrapeIG;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
